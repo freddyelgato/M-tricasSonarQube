@@ -20,6 +20,5 @@ Thumbs.db
 *.swp
 
 # Entornos locales
-.env
 .env.local
 .env.*.local
